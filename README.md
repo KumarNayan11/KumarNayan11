@@ -2,7 +2,7 @@
 
 🎓 2nd Year B.Tech IT student at MITS Gwalior  
 💻 Exploring **Web Development**, **Cybersecurity**, and **Data Science**  
-🌱 Currently learning: Python (freeCodeCamp) & Web Dev fundamentals  
+🌱 Currently learning: Python & Web Dev fundamentals  
 ⚡ Passionate about solving problems and building projects that help others  
 📫 Reach me at: [your email] | [LinkedIn profile link]
 
