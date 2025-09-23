@@ -4,7 +4,7 @@
 💻 Exploring **Web Development**, **Cybersecurity**, and **Data Science**  
 🌱 Currently learning: Python & Web Dev fundamentals  
 ⚡ Passionate about solving problems and building projects that help others  
-📫 Reach me at: [nayan.jain.it@gmail.com] | [www.linkedin.com/in/nayan-jain-251662386]
+📫 Reach me at: [] | []
 
 ---
 
@@ -57,8 +57,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nayan.jain.it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nayan-jain-251662386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
