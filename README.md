@@ -35,7 +35,6 @@
 > Macro project designing a relational DB for food ordering with customers, restaurants, orders, and delivery agents.  
 **Tech:** MySQL, ER Modelling, SQL  
 
-*(Add more as you build!)*
 
 ---
 
