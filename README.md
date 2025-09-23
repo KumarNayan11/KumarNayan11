@@ -4,7 +4,6 @@
 💻 Exploring **Web Development**, **Cybersecurity**, and **Data Science**  
 🌱 Currently learning: Python & Web Dev fundamentals  
 ⚡ Passionate about solving problems and building projects that help others  
-📫 Reach me at: [] | []
 
 ---
 
