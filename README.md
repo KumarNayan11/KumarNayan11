@@ -46,6 +46,8 @@
 
 ### 🎖 Certifications
 [![Google Cloud Badge](https://images.credly.com/size/220x220/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/e08a2593-ae93-46e6-880b-af081852988b/public_url)
+[![Google Cloud Badge](https://images.credly.com/size/220x220/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/e00416cd-4743-47fd-ad60-877130472897/public_url)
+[![Google Cloud Badge](https://images.credly.com/size/220x220/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png)](https://www.credly.com/badges/5c5bc932-fc92-4c93-bad3-43df29f93315/public_url)
 
 ---
 
