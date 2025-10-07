@@ -37,10 +37,15 @@
 
 ---
 
-## 📜 Certifications & Learning
+## 📜  Learning
 - 🐍 freeCodeCamp – *Scientific Computing with Python (in progress)*  
 - 🌐 freeCodeCamp – *Responsive Web Design (planned)*  
 - 🔒 Interested in Google Cybersecurity Professional Certificate (future)  
+
+---
+
+### 🎖 Certifications
+[![Google Cloud Badge](https://images.credly.com/size/220x220/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/e08a2593-ae93-46e6-880b-af081852988b/public_url)
 
 ---
 
