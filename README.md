@@ -51,6 +51,8 @@
 [![Google Cloud Badge](https://images.credly.com/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png)](https://www.credly.com/badges/108aa241-c4a4-4488-93a6-fd9f0aac84ea/public_url)
 [![Google Cloud Badge](https://images.credly.com/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png)](https://www.credly.com/badges/02828155-3841-439f-91be-c438e34d3b82/public_url)
 [![Google Cloud Badge](https://images.credly.com/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png)](https://www.credly.com/badges/dfe399ab-bd46-4c8e-a983-3d2b17efdd00/public_url)
+[![Google Cloud Badge](https://images.credly.com/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/a97682fd-9751-402f-ab5e-a176426f0087/public_url)
+
 
 ---
 
