@@ -45,13 +45,18 @@
 ---
 
 ### 🎖 Certifications
-[![Google Cloud Badge](https://images.credly.com/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/e08a2593-ae93-46e6-880b-af081852988b/public_url)
-[![Google Cloud Badge](https://images.credly.com/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png)](https://www.credly.com/badges/e00416cd-4743-47fd-ad60-877130472897/public_url)
-[![Google Cloud Badge](https://images.credly.com/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png)](https://www.credly.com/badges/5c5bc932-fc92-4c93-bad3-43df29f93315/public_url)
-[![Google Cloud Badge](https://images.credly.com/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png)](https://www.credly.com/badges/108aa241-c4a4-4488-93a6-fd9f0aac84ea/public_url)
-[![Google Cloud Badge](https://images.credly.com/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png)](https://www.credly.com/badges/02828155-3841-439f-91be-c438e34d3b82/public_url)
-[![Google Cloud Badge](https://images.credly.com/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png)](https://www.credly.com/badges/dfe399ab-bd46-4c8e-a983-3d2b17efdd00/public_url)
-[![Google Cloud Badge](https://images.credly.com/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/a97682fd-9751-402f-ab5e-a176426f0087/public_url)
+## 🏅 Google Cloud / Skill Boost Certifications
+
+Here are my Google Cloud lab certificates (via Credly).  
+Click any badge to view its details.
+
+| #  | Certificate | Preview |
+|----|-------------|---------|
+| 1  | [Certificate Title 1](https://www.credly.com/badges/e08a2593-ae93-46e6-880b-af081852988b/public_url) | <img src="https://images.credly.com/size/680x680/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" alt="The Basics of Google Cloud Compute Skill Badge" width="100" /> |
+| 2  | [Certificate Title 2](https://www.credly.com/badges/e00416cd-4743-47fd-ad60-877130472897/public_url) | <img src="https://images.credly.com/size/680x680/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png" alt="Get Started with Cloud Storage Skill Badge" width="100" /> |
+| 3  | [Certificate Title 3](https://www.credly.com/badges/5c5bc932-fc92-4c93-bad3-43df29f93315/public_url) | <img src="https://images.credly.com/size/680x680/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png" alt="Get Started with Pub/Sub Skill Badge" width="100" /> |
+| 19 | [Certificate Title 19](BADGE_PAGE_URL_19) | <img src="BADGE_IMAGE_URL_19" alt="Certificate Title 19" width="100" /> |
+
 
 
 ---
