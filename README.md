@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nayan
 
-🎓 2nd Year B.Tech IT student at MITS Gwalior  
+🎓 Information Technology Student 
 💻 Exploring **Web Development**, **Cybersecurity**, and **Data Science**  
 🌱 Currently learning: Python & Web Dev fundamentals  
 ⚡ Passionate about solving problems and building projects that help others  
