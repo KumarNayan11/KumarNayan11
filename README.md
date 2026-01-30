@@ -82,8 +82,13 @@ Selected badges include:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumarNayan11&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarNayan11&layout=compact&theme=default)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumarNayan11&show_icons=true&theme=default&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarNayan11&layout=compact&theme=default&cache_seconds=1800)
+
+</div>
 
 ---
 
