@@ -31,15 +31,15 @@ I enjoy working on practical, impact-driven projects, learning modern developmen
 ### RaktSetu — Social Impact Project  
 🔗 https://github.com/KumarNayan11/RaktSetu
 
-A web-based platform designed to help connect blood donors with individuals and hospitals in need, improving response time during medical emergencies.
+A full stack web platform designed to help connect blood donors with individuals and hospitals in need, improving response time during medical emergencies.
 
 **Key Features:**
-- Donor and recipient registration system
+- Donor and recipient registration and authentication
 - Location-based donor discovery
-- Secure data handling and form validation
-- Clean and responsive user interface
+- Secure form handling and input validation
+- Responsive, mobile-friendly user interface
 
-**Tech Stack:** Flask, MySQL, HTML, CSS, Python
+**Tech Stack:** React (Frontend), Node.js (Backend), Firestore (Database)
 
 ---
 
@@ -95,3 +95,4 @@ Selected badges include:
 ---
 
 *I am open to collaboration, internships, and project-based opportunities in cybersecurity and full stack development. Feel free to connect or explore my repositories.*
+
