@@ -1,8 +1,8 @@
 # Hi, I’m Nayan Jain
 
-**IT Student | Cybersecurity & Full Stack Development**
+**IT Student | Full Stack Web Development & Cybersecurity**
 
-I am an Information Technology student with a strong interest in building secure, scalable web applications and understanding how systems can be protected against real-world threats. My work focuses on combining **full stack development** with **cybersecurity fundamentals** to create projects that are both functional and resilient.
+I am an Information Technology student with a strong interest in building secure, scalable web applications and understanding how systems can be protected against real-world threats. I am exploring full stack development and cybersecurity to better understand how modern applications are built and secured.
 
 I enjoy working on practical, impact-driven projects, learning modern development practices, and continuously improving my skills in networking, application security, and backend systems.
 
@@ -74,7 +74,7 @@ A campus-focused web application that allows students to report lost and found i
 
 ---
 
-## Certifications
+## 🎖 Certifications
 
 **Google Cloud Skill Boost (Credly Profile):**  
 https://www.credly.com/users/nayan-jain.05874f38
@@ -89,22 +89,23 @@ Selected badges include:
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumarNayan11&show_icons=true&theme=default&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumarNayan11&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarNayan11&layout=compact&theme=default&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarNayan11&layout=compact&theme=radical)
 
 </div>
 
 ---
 
 ## Connect
-
-- Email: nayan.jain.it@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/nayan-jain-251662386
+<p align="center">
+<a href="mailto:nayan.jain.it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nayan-jain-251662386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
