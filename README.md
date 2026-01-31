@@ -93,15 +93,15 @@ Selected badges include:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumarNayan11&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-coral-rho.vercel.app/api?username=KumarNayan11&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarNayan11&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-coral-rho.vercel.app/api/top-langs/?username=KumarNayan11&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## Connect
+## 🌐 Connect with Me
 <p align="center">
 <a href="mailto:nayan.jain.it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nayan-jain-251662386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
