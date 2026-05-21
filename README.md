@@ -129,7 +129,7 @@ A blood donor connection platform designed to help connect donors and recipients
 
 | Google Cloud Compute | Cloud Storage | API Gateway | App Engine | Monitoring in Google Cloud | GenAI Apps with Gemini & Streamlit |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./images/compute.png" width="80" alt="Cloud Compute Badge"> | <img src="./images/storage.png" width="80" alt="Cloud Storage Badge"> | <img src="./images/api_gateway.png" width="80" alt="API Gateway Badge"> | <img src="./images/app_engine.png" width="80" alt="App Engine Badge"> | <img src="./images/monitoring.png" width="80" alt="Cloud Monitoring Badge"> | <img src="./images/genai.png" width="80" alt="GenAI Badge"> |
+| <a href="https://www.skills.google/public_profiles/06c9f4e5-f3e0-4489-bdf8-503889e73d2c/badges/18905771" target="_blank"><img src="./images/compute.png" width="120" alt="Cloud Compute Badge"></a> | <a href="https://www.skills.google/public_profiles/06c9f4e5-f3e0-4489-bdf8-503889e73d2c/badges/18912667" target="_blank"><img src="./images/storage.png" width="120" alt="Cloud Storage Badge"></a> | <a href="https://www.skills.google/public_profiles/06c9f4e5-f3e0-4489-bdf8-503889e73d2c/badges/18921182" target="_blank"><img src="./images/api_gateway.png" width="120" alt="API Gateway Badge"></a> | <a href="https://www.skills.google/public_profiles/06c9f4e5-f3e0-4489-bdf8-503889e73d2c/badges/19125577" target="_blank"><img src="./images/app_engine.png" width="120" alt="App Engine Badge"></a> | <a href="https://www.skills.google/public_profiles/06c9f4e5-f3e0-4489-bdf8-503889e73d2c/badges/19177952" target="_blank"><img src="./images/monitoring.png" width="120" alt="Cloud Monitoring Badge"></a> | <a href="https://www.skills.google/public_profiles/06c9f4e5-f3e0-4489-bdf8-503889e73d2c/badges/19212345" target="_blank"><img src="./images/genai.png" width="120" alt="GenAI Badge"></a> |
 
 <br>
 
@@ -161,7 +161,7 @@ Exploring open source contributions and collaborative development while continui
   <a href="mailto:nayan.jain.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="http://www.nayanjain.in/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/KumarNayan11">
