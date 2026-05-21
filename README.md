@@ -173,7 +173,7 @@ Exploring open source contributions and collaborative development while continui
 </p>
 
 <p align="center">
-  <i>Building, learning, and improving. I am open to collaboration and technical discussions!</i><br>
+  <i>Building, learning, and improving. I am open to collaboration and technical discussions!</i><br><br>
   <b>Feel free to connect or explore my repositories.</b>
 </p>
 
