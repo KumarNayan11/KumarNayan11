@@ -71,7 +71,7 @@ A full stack campus-focused platform designed to book facility, manage venue ava
 
 | Key Features | Project Links |
 | :--- | :--- |
-| • JWT-based authentication and authorization<br>• Full stack architecture with MongoDB integration<br>• Responsive UI with analytics and dashboard components | <a href="YOUR_CAMPUSBOOK_REPO_LINK"><img src="https://img.shields.io/badge/Repository-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a> &nbsp; <a href="YOUR_CAMPUSBOOK_DEMO_LINK"><img src="https://img.shields.io/badge/Live_Demo-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> |
+| • JWT-based authentication and authorization<br>• Full stack architecture with MongoDB integration<br>• Responsive UI with analytics and dashboard components | <a href="https://github.com/KumarNayan11/CampusBook-venue-management-system"><img src="https://img.shields.io/badge/Repository-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a> &nbsp; <a href="https://campusbook2026.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> |
 
 ---
 
@@ -87,7 +87,7 @@ An interactive AI-powered web assistant developed for election process education
 
 | Key Features | Project Links |
 | :--- | :--- |
-| • Gemini API integration for interactive assistance<br>• Google Cloud Run deployment with Docker containerization<br>• Firestore-based analytics and logging | <a href="YOUR_ELECTGUIDE_REPO_LINK"><img src="https://img.shields.io/badge/Repository-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a> &nbsp; <a href="YOUR_ELECTGUIDE_DEMO_LINK"><img src="https://img.shields.io/badge/Live_Demo-4A4A4A?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo" /></a> |
+| • Gemini API integration for interactive assistance<br>• Google Cloud Run deployment with Docker containerization<br>• Firestore-based analytics and logging | <a href="https://github.com/KumarNayan11/ElectGuide-AI"><img src="https://img.shields.io/badge/Repository-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a> &nbsp; <a href="https://electguide-ai-1000034027511.asia-south1.run.app/"><img src="https://img.shields.io/badge/Live_Demo-4A4A4A?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo" /></a> |
 
 ---
 
@@ -101,7 +101,7 @@ A blood donor connection platform designed to help connect donors and recipients
 
 | Key Features | Project Links |
 | :--- | :--- |
-| • Donor-recipient connection workflow<br>• Firestore database integration<br>• Responsive frontend with Gemini-assisted features | <a href="YOUR_RAKTSETU_REPO_LINK"><img src="https://img.shields.io/badge/Repository-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a> &nbsp; <a href="YOUR_RAKTSETU_DEMO_LINK"><img src="https://img.shields.io/badge/Live_Demo-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> |
+| • Donor-recipient connection workflow<br>• Firestore database integration<br>• Responsive frontend with Gemini-assisted features | <a href="https://github.com/KumarNayan11/RaktSetu"><img src="https://img.shields.io/badge/Repository-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a> &nbsp; <a href="https://rakt-setu-kappa.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> |
 
 ---
 
