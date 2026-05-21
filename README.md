@@ -121,7 +121,7 @@ A blood donor connection platform designed to help connect donors and recipients
 
 ---
 
-## 🏆 Certifications & Profiles
+## 🎖 Certifications & Profiles
 
 * **Google Cloud Arcade:** 2025 Trooper tier achiever & 2026 participant. Check out my [Credly Profile](https://www.credly.com/users/nayan-jain.05874f38).
 
@@ -156,17 +156,31 @@ Exploring open source contributions and collaborative development while continui
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nayan-jain-251662386">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:nayan.jain.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/KumarNayan11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_TWITTER_LINK">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
 <p align="center">
   <i>Building, learning, and improving. I am open to collaboration and technical discussions!</i><br>
-  <bold>Feel free to connect or explore my repositories.</bold>
+  <b>Feel free to connect or explore my repositories.</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KumarNayan11&label=Profile%20views&style=flat&color=007EC6" alt="Profile Views" />
+  <br><br>
+  <small>⭐ Star my repositories if you find them useful!</small>
 </p>
