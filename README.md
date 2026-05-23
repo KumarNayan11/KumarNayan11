@@ -18,7 +18,11 @@ My projects primarily involve real-world web applications, authentication system
 
 Alongside development, I actively explore Google Cloud technologies, cybersecurity fundamentals, and secure coding practices through hands-on experimentation.
 
----
+*You can also connect with me via 💼 **LinkedIn:** [`in/nayan-jain-251662386`][linkedin-url] or 📧 **Email:** [`nayan.jain.it@gmail.com`][email-url].*
+
+<!-- Reference Links -->
+[linkedin-url]: https://www.linkedin.com/in/nayan-jain-251662386
+[email-url]: mailto:nayan.jain.it@gmail.com
 
 ## 🛠️ Technical Arsenal
 
@@ -153,7 +157,7 @@ Exploring open source contributions and collaborative development while continui
 ---
 
 ## 🌐 Connect With Me
-
+Let's collaborate, discuss tech, or just connect! Feel free to reach out:
 <p align="center">
   <a href="https://www.linkedin.com/in/nayan-jain-251662386">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
